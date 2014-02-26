@@ -1,0 +1,6 @@
+.bundle
+/ruby
+/tmp
+nohup.out
+*~
+\#*\#
